@@ -1,2 +1,4 @@
-# py-projects
-Python Project's
+# PYTHON_PROJECT'S
+Python programs done during the learning time.
+
+1. Password strength checker
